@@ -1,0 +1,22 @@
+site_name: Technical Writing
+theme: readthedocs
+nav:
+  - Overview: index.md
+  - Getting Started:
+    - Develop a content strategy: getting-started/content-strategy.md
+    - Follow a Docs-as-Code strategy: getting-started/docs-as-code.md
+    - Write your documentation: getting-started/write-docs.md
+    - Documentation reviews: getting-started/review-docs.md
+    - Test your documentation: getting-started/test-docs.md
+  - Style Guide:
+    - Guidelines and best practices: style-guide/best-practices.md
+    - Grammar and mechanics: style-guide/grammar-mechanics.md
+    - Language and choices: style-guide/language-choices.md
+    - Voice and tone: style-guide/voice-tone.md
+    - Interface items and standards: style-guide/interface-items-standards.md
+  - Tutorials:
+    - Merge request review responsibilities: tutorials/review-responsibilities.md
+    - Follow the Git workflow: tutorials/git-workflow.md
+  - Reference:
+    - Recommended VS Code extensions: reference/recommended-extensions.md
+    - Helpful resources: reference/helpful-resources.md

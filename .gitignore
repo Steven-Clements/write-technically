@@ -1,0 +1,4 @@
+.markdownlint.json
+.vscode
+.env
+/site
