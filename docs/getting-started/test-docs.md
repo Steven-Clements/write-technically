@@ -35,3 +35,10 @@ After your initial round of tests, review your test results and collect feedback
 ## Prepare to publish
 
 Congrats! You wrote a full set of documentation for your API or software project and you're ready to publish it in a live environment!
+
+## More info
+
+- [Follow the Git workflow](../tutorials/git-workflow.md)
+- [Merge request review responsibilities](../tutorials/review-responsibilities.md)
+- [Recommended VS Code extensions](../reference/recommended-extensions.md)
+- [Helpful resources](../reference/helpful-resources.md)
