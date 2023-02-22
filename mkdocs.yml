@@ -20,3 +20,4 @@ nav:
   - Reference:
     - Recommended VS Code extensions: reference/recommended-extensions.md
     - Helpful resources: reference/helpful-resources.md
+  - Support: support.md
